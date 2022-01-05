@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037665058570",
+    "firebase_url": "https://bwa-movies-13cba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bwa-movies-13cba",
+    "storage_bucket": "bwa-movies-13cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037665058570:android:ea954fe0ea1791059984f3",
+        "android_client_info": {
+          "package_name": "com.sebade.mymovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037665058570-hgtm96irtfq39f32uls52jkb2f3q2gf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sebade.mymovie",
+            "certificate_hash": "ce59a122290f90189873f81ef5fb757c008029f4"
+          }
+        },
+        {
+          "client_id": "1037665058570-9gt1jppq2pi7mj9c8v1ikm8bsq547hde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-cNDpiDfB8qSaIPPPpyoKaOx2pT2Doc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037665058570-9gt1jppq2pi7mj9c8v1ikm8bsq547hde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
